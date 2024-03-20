@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kate</h1>
-<h3 align="center">A IOS developer from Belarus</h3>
+<h1 align="center">Hi 👋, I'm Kate 👩‍💻 </h1>
+<h3 align="center"> 📱🍏 IOS developer from Belarus 🍏💻 </h3>
 
 - 📫 How to reach me **ekaterina213g@gmail.com**
 
