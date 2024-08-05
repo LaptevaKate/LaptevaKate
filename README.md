@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kate</h1>
 <h3 align="center">📱🍏 IOS developer with passion for challenges from Belarus 🍏💻</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F1F7&width=435&lines=I%E2%80%99m+currently+learning;things+that+middle+;iOS+Developer+should+know)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F1F7&width=435&lines=I%E2%80%99m+currently+learning;things+that+middle+iOS+Developer+should+know)](https://git.io/typing-svg)
 - 💬 Ask me about **Swift and it's frameworks**
 
 - 📫 How to reach me **ekaterina213g@gmail.com**
